@@ -8,4 +8,4 @@
 
 [![Watch the video](./images/How-create-posters-in-canva.png)](https://youtu.be/xnHH21CEluM)
 
-[Chapter1 ](chapter1.md)
+[Chapter1 ](/chapters/chapter1.md)
