@@ -23,7 +23,7 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="/linux/README.md"><img src="image/linux.png" width="70px;" height="75px;" alt="Linux" /><br /><b>Linux</b></a></td>
+    <td align="center"><a href="/linux/README.md"><img src="images/linux.png" width="70px;" height="75px;" alt="Linux" /><br /><b>Linux</b></a></td>
   
   </tr>
   
